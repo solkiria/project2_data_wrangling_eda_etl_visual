@@ -23,4 +23,4 @@ To achive this project goal the following files were used:
 As a practice of Agile and Scrum metodology, this project was done with 3 more partners. We did daily meetings everyday, we organised our task in a kanban framework, we worked all the project remotely and we did 2 sprints for this prject. At the end of both sprints we did a sprint review meeting and, finally, we did a demo meeting with the product owner presence. The presentation slides are in the 'PRESENTACIONFINAL4.pdf' file, there you can find all the explanation of the project and some of the graphs obtained.
 
 ## Conclusion
-This was my second project. It is improvable, but it was a good beggining.
+This was my second project. I enjoyed it so much.
